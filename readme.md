@@ -8,8 +8,8 @@
     <body>
         <div class="container mt-5">
             <div class="jumbotron">
-                <h1 class="display-4 text-primary">Simple aplicacion de Tareas</h1>
-                <p class="text-muted">Este es un simple ejemplo de una aplicación de tareas utilizando la programación oritentada a objetos</p>
+                <h1 class="display-4 text-primary">Simple Aplicación de Tareas</h1>
+                <p class="text-muted">Este es un simple ejemplo de una aplicación de tareas utilizando la Programación Oritentada a Objetos</p>
             </div>
             <p class="text-muted">
                 Si deseas probar la aplicación lo puedes encontrar aquí: <a href="https://mathias-peralta.github.io/aplicacion-de-tareas/">Aplicación de Tareas JS</a>
